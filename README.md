@@ -16,7 +16,8 @@
 
 - Chating
 
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/b977691d-82f6-41b3-b770-c76140923a6f" />
+<img width="1437" alt="image" src="https://github.com/user-attachments/assets/9ff78ea2-d1c3-41df-b771-dc8598e8a752" />
+
 
 - Like, share, comment posts
 
