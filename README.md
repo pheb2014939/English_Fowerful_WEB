@@ -1,4 +1,7 @@
 ### A Forum For English Learner 
+
+- The purpose of this website provides user a platform for users to share their English knowledge with others. It also includes advertisements tailored for the E-Commerce course.
+
 ## Web Homepage UI
 
 - Group
