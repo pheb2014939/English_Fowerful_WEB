@@ -4,11 +4,6 @@
 
 ## Web Homepage UI
 
-- Group
-
-<img width="1399" alt="image" src="https://github.com/user-attachments/assets/54b1974c-328d-4f45-ad9d-3214e1b34017" />
-
-
 - Home page
  
 <img width="1435" alt="image" src="https://github.com/user-attachments/assets/9e1fb26c-5991-4946-b2cc-c69a1ca09e6a" />
@@ -16,6 +11,11 @@
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/9f35023c-4b26-4759-a3b8-d158c5e1fff7" />
 
+
+
+- Group
+
+<img width="1399" alt="image" src="https://github.com/user-attachments/assets/54b1974c-328d-4f45-ad9d-3214e1b34017" />
 
 
 - Chating
