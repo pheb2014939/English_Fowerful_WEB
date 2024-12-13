@@ -1,4 +1,4 @@
-### A Forum For English Learner 
+## A Forum For English Learner 
 
 - The purpose of this website provides user a platform for users to share their English knowledge with others. It also includes advertisements tailored for the E-Commerce course.
 
@@ -18,7 +18,7 @@
 <img width="1399" alt="image" src="https://github.com/user-attachments/assets/54b1974c-328d-4f45-ad9d-3214e1b34017" />
 
 
-- Chating
+- Chatting
 
 <img width="1437" alt="image" src="https://github.com/user-attachments/assets/9ff78ea2-d1c3-41df-b771-dc8598e8a752" />
 
